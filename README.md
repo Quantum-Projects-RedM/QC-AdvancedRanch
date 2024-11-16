@@ -2,7 +2,7 @@
 
 ## Information
 
-This script is a rework of rsg-ranch to incorporate to V2 with shops and job api to be able to use in other jobs :) Enjoy
+This script is a rework of [rsg-ranch](https://github.com/FreedomCore2020/rsg-ranch) to incorporate to V2 with shops and job api to be able to use in other jobs :) Enjoy
 
 ## Menu
 ![image](https://github.com/user-attachments/assets/30d8993c-3b18-4762-8f4a-64a0d2eba2dd)
