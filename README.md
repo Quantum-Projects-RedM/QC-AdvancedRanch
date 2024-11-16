@@ -24,5 +24,6 @@ This script is a rework of [rsg-ranch](https://github.com/FreedomCore2020/rsg-ra
 ### Follow the Installation Folder :)
 
 ### Credit where due
-[RSG Framework](https://github.com/Rexshack-RedM)
-[RexShack](https://github.com/RexShack) - for original code and work 
+-[RSG Framework](https://github.com/Rexshack-RedM)
+
+-[RexShack](https://github.com/RexShack) - for original code and work 
