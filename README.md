@@ -25,4 +25,4 @@ This script is a rework of [rsg-ranch](https://github.com/FreedomCore2020/rsg-ra
 
 ### Credit where due
 
-[Rex](https://github.com/RexShack) - for original code and work 
+[RexShack](https://github.com/RexShack) - for original code and work 
