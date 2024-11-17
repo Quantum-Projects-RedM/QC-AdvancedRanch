@@ -1,4 +1,4 @@
-    ['macfarranch'] = {
+    macfarranch = {
         label = 'Macfarlane Rancher',
         defaultDuty = true,
         offDutyPay = false,
@@ -9,7 +9,7 @@
             ['3'] = { name = 'Ranch Boss', isboss = true, payment = 40 },
         },
     },
-    ['prongranch'] = {
+    prongranch = {
         label = 'Pronghorn Ranch',
         defaultDuty = true,
         offDutyPay = false,
